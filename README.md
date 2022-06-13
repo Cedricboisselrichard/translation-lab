@@ -1,2 +1,2 @@
-# translationLab
+# translation-lab
 

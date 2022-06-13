@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cboissel</groupId>
-	<artifactId>translationLab</artifactId>
+	<artifactId>translation-lab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>translationLab</name>
+	<name>translation-lab</name>
 	<description>Translation hub</description>
 	<properties>
 		<java.version>17</java.version>
